@@ -104,7 +104,7 @@ def gantiid(config):
 if __name__ == '__main__':
     #input
 
-    print("Script untuk ganti id by virgo contoh : 6212345678910")
+    print("Script untuk ganti id by virgocontoh : 6212345678910")
     nomor = input("Masukkan nomor telepon yang terhubung pada akun : ")
     password = input("Masukkan password : ")
 
